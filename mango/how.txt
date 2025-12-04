@@ -1,2 +1,0 @@
-- gpg --import pubkey.asc
-- gpg --encrypt --armor --recipient "Krerk Piromsopa" message.txt

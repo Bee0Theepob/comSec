@@ -1,0 +1,8 @@
+- clone the repo
+- fix compose.yaml: 
+
+environment:
+  - DB_SERVER=db
+  - DEFAULT_SECURITY_LEVEL=low
+
+- docker compose up -d
